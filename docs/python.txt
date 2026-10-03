@@ -1,0 +1,3 @@
+This document aims to give an overview of Windows-specific behaviour you should know about when using Python on Microsoft Windows.
+
+Unlike most Unix systems and services, Windows does not include a system supported installation of Python. Instead, Python can be obtained from a number of distributors, including directly from the CPython team. Each Python distribution will have its own benefits and drawbacks, however, consistency with other tools you are using is generally a worthwhile benefit. Before committing to the process described here, we recommend investigating your existing tools to see if they can provide Python directly.
